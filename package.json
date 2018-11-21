@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/myungjaeyu/rxjs-pg/issues"
   },
-  "homepage": "https://github.com/myungjaeyu/rxjs-pg#readme"
+  "homepage": "https://github.com/myungjaeyu/rxjs-pg#readme",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "ava-ts": "^0.25.2",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.1.6"
+  }
 }
